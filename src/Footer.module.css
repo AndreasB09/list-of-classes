@@ -6,3 +6,9 @@
     color: white;
     height: 80px;
 }
+
+.footerContainer {
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
