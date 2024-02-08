@@ -1,5 +1,3 @@
-import React from "react";
-
 function Card({ title, desc, image }) {
     return (
         <div className="card">
