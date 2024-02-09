@@ -1,0 +1,6 @@
+.circleLayout {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: rgb(125, 244, 6);
+}
